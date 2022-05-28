@@ -17,5 +17,3 @@
 ```
 
 __[My Github page](https://huge-pancake.github.io/)__
-
-![HugePancake](https://komarev.com/ghpvc/?username=huge-pancake)
