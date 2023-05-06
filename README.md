@@ -1,14 +1,14 @@
-# Hello! I'm huge-pancake
+# Hello!
 
 > Here.
 
 ```json
 {
-  "name": "huge-pancake (not a real pancake :P)",
+  "nickname": "huge-pancake",
   "pronouns": ["he", "him"],
   "primary-email": "huge.pancake.zxr@gmail.com",
   "address": "China",
-  "using-language": ["Chinese", "English"],
+  "languagea": ["Chinese", "English"],
 }
 ```
 
