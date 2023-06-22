@@ -1,14 +1,12 @@
-# 👋 Hi!
-
-> I'm here.
+# 👋 Hi, there!
 
 ```json
 {
-  "nickname": "huge-pancake",
+  "nickname": "volpan (HugePancake)",
   "pronouns": ["he", "him"],
-  "primary-email": "huge.pancake.zxr@gmail.com",
+  "email": ["huge.pancake.zxr@gmail.com"],
   "address": "China",
-  "languagea": ["Chinese", "English"],
+  "languagea": ["Chinese (Simp)", "English"],
 }
 ```
 
@@ -21,7 +19,7 @@
 <code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
 <code><img height="20" alt="neovim" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png"></code>
 
-| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=huge-pancake&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huge-pancake&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=volpan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volpan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 |---|---|
 
 ---
