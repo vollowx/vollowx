@@ -4,12 +4,12 @@
   "aka": { "huge-pancake" },
   "userinfo": {
     "github": {
-      username: "vollowx",
-      display: "Vollow",
+      "username": "vollowx",
+      "display": "Vollow",
     },
     "gitlab": {
-      username: "vollowx",
-      display: "Vollow",
+      "username": "vollowx",
+      "display": "Vollow",
     },
   },
   "pronouns": ["he", "him"],
