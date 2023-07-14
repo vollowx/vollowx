@@ -1,15 +1,24 @@
 ```json
 {
   "nickname": "Vollow",
-  "username": {
-    "github": "vollowx",
-    "gitlab": "vollowx",
-  },
   "aka": { "huge-pancake" },
+  "userinfo": {
+    "github": {
+      username: "vollowx",
+      display: "Vollow",
+    },
+    "gitlab": {
+      username: "vollowx",
+      display: "Vollow",
+    },
+  },
   "pronouns": ["he", "him"],
-  "email": ["huge-pancake@outlook.com"],
+  "emails": [
+    "huge-pancake@outlook.com",
+    "huge.pancake.zxr@gmail.com"
+  ],
   "location": "China",
-  "languagea": ["Chinese (Simp)", "English"],
+  "language": ["Chinese (Simp)", "English"],
 }
 ```
 
