@@ -1,13 +1,17 @@
 ```json
 {
   "nickname": "Vollow",
-  "aka": { "huge-pancake" },
+  "aka": [ "huge-pancake" ],
   "userinfo": {
     "github": {
       "username": "vollowx",
       "display": "Vollow",
     },
     "gitlab": {
+      "username": "vollowx",
+      "display": "Vollow",
+    },
+    "discord": {
       "username": "vollowx",
       "display": "Vollow",
     },
@@ -28,5 +32,5 @@
 <code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
 <code><img height="20" alt="nix" src="https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/nix/nix.png"></code>
 
-| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vollowx&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vollowx&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vollowx&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vollowx&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats) |
 |---|---|
