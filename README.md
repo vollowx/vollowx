@@ -22,7 +22,7 @@
     "huge.pancake.zxr@gmail.com"
   ],
   "location": "China",
-  "language": ["Chinese (Simp)", "English"],
+  "languages": ["Chinese (Simp)", "English"],
 }
 ```
 
