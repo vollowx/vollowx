@@ -1,8 +1,8 @@
 <p align="center">
-  <code>Web</code>
   <code>U/Nix</code>
-  <code>C/++</code>
   <code>N/Vim</code>
+  <code>Web</code>
+  <code>C/++</code>
 </p>
 
 <p align="center">
