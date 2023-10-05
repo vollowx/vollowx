@@ -1,8 +1,16 @@
 <p align="center">
+  <code><b>Knowledge</b></code>
   <code>U/Nix</code>
   <code>N/Vim</code>
   <code>Web</code>
   <code>C/++</code>
+</p>
+
+<p align="center">
+  <code><b>Dotfiles</b></code>
+  <code><a href="https://github.com/vollowx/.nix">.nix</a></code>
+  <code><a href="https://github.com/vollowx/.unix">.unix</a></code>
+  <code><a href="https://github.com/vollowx/.nvim">.nvim</a></code>
 </p>
 
 <p align="center">
