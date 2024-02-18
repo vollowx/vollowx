@@ -8,9 +8,8 @@
 
 <p align="center">
   <code><b>Dotfiles</b></code>
-  <code><a href="https://github.com/vollowx/.nix">.nix</a></code>
   <code><a href="https://github.com/vollowx/.unix">.unix</a></code>
-  <code><a href="https://github.com/vollowx/.nvim">.nvim</a></code>
+  <code><a href="https://github.com/vollowx/.nix">.nix [inactive]</a></code>
 </p>
 
 <p align="center">
