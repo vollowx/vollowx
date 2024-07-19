@@ -1,15 +1,15 @@
 <p align="center">
-  <code><b>Knowledge</b></code>
-  <code>U/Nix</code>
-  <code>N/Vim</code>
-  <code>Web</code>
-  <code>C/++</code>
+  <code><b>knowledge</b></code>
+  <code>u/nix</code>
+  <code>n/vim</code>
+  <code>web</code>
+  <code>c/++</code>
 </p>
 
 <p align="center">
-  <code><b>Dotfiles</b></code>
-  <code><a href="https://github.com/vollowx/.unix">.unix</a></code>
-  <code><a href="https://github.com/vollowx/.nix">.nix [inactive]</a></code>
+  <code><b>dotfiles</b></code>
+  <code><a href="https://github.com/vollowx/unixconf">unix [inactive]</a></code>
+  <code><a href="https://github.com/vollowx/nixconf">nix</a></code>
 </p>
 
 <p align="center">
