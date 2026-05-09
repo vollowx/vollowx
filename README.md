@@ -1,6 +1,6 @@
 # ✨
 
-Hi! I'm Vollow. I basically code in/on thoses stuffs below.
+Hi! I'm Lucas X. Zhao (Vollow). I basically code in/on thoses stuffs below.
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,go,zig,python,cloudflare,ts,scss,lit,vue,astro&perline=6)](https://skillicons.dev)
 
@@ -9,4 +9,6 @@ Hi! I'm Vollow. I basically code in/on thoses stuffs below.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vollowx&layout=compact&theme=dark" height="160" />
 </div> -->
 
-Public key: `59F9A9DE8BB09D9B43B3DD902AEAFFBFD5821E1B`
+I also actively use [SourceHut](https://git.sr.ht/~lucaz), some repositories on GitHub might be outdated.
+
+Public key: [`59F9A9DE8BB09D9B43B3DD902AEAFFBFD5821E1B`](https://keyserver.ubuntu.com/pks/lookup?search=59F9A9DE8BB09D9B43B3DD902AEAFFBFD5821E1B&fingerprint=on&op=index), also available at [vollowx/dotfiles](https://github.com/vollowx/dotfiles/blob/main/vollow.asc).
